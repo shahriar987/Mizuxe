@@ -50,3 +50,16 @@ margin-right: 83px!important;
 .header .img img{
     margin-left: -160px;
 }
+/*Authors*/
+.authors .card-body .card-link i{
+    color: #3292A6;
+    font-size: 20px;
+    padding: 10px;
+}
+.authors .card:hover{
+    color: #fff;
+    background: #3292A6;
+}
+.authors .card:hover i{
+    color: #fff;
+}
